@@ -33,6 +33,7 @@ class ViewController: UIViewController {
         override init() {
             super.init()//調用父類的初始化器
             super.skill = "chasing my tail"
+            
         }
         
     
